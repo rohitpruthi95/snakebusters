@@ -1,0 +1,18 @@
+c:\users\ishaan batta\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\WindowsPhoneGame1.dll
+c:\users\ishaan batta\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\WindowsPhoneGame1.pdb
+c:\users\ishaan batta\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WindowsPhoneGame1.csprojResolveAssemblyReference.cache
+c:\users\ishaan batta\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\ishaan batta\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WindowsPhoneGame1.dll
+c:\users\ishaan batta\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WindowsPhoneGame1.pdb
+c:\users\ishaan batta\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\AppManifest.xaml
+c:\users\ishaan batta\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml.g
+c:\users\ishaan batta\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+c:\users\ishaan batta\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\WindowsPhoneGame1.xap
+c:\users\ishaan batta\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Ishaan Batta\Documents\Visual Studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\WindowsPhoneGame1.xap
+C:\Users\Ishaan Batta\Documents\Visual Studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Ishaan Batta\Documents\Visual Studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Ishaan Batta\Documents\Visual Studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Ishaan Batta\Documents\Visual Studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\

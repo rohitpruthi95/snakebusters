@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{D797B4B9-B264-45EE-87AB-3774222AAABC}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\users\ishaan batta\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1Content\</RootDirectory>
+      <LoggerRootDirectory>c:\users\ishaan batta\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\users\ishaan batta\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\users\ishaan batta\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-01-10T20:12:28.975909+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
